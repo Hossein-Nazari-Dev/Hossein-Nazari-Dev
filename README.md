@@ -1,9 +1,9 @@
 <h1>👋 Hi, I’m Hossein Nazari (@Hossein-Nazari-Dev)</h1>
-<p>🏛️ A Master’s graduate in Sustainable Architecture with a passion for merging technology, design, and sustainability.</p>
-<p>👀 I’m deeply interested in building science, computational geometry, evidence-based design, energy efficiency, and the development of digital tools that empower architects and designers to create sustainable buildings, products, and cities.</p>
-<p>🌱 I’m currently exploring machine learning, optimization, agent-based modeling, and the development of social digital twins to revolutionize how we approach sustainable design and urban planning.</p>
-<p>💡 I’m the founder of NexoNest, a startup focused on creating innovative tools that enable architects and designers to design more sustainable and efficient structures. My work bridges the gap between architecture, technology, and sustainability.</p>
-<p>💞️ I’m open to collaborating on projects related to:
+<p>🏛️ A Master’s graduate in <u>Sustainable Architecture</u> with a passion for merging technology, design, and sustainability.</p>
+<p>👀 I’m deeply interested in <u>building science, computational geometry, evidence-based design, energy efficiency</u>, and the <u>development of digital tools</u> that empower architects and designers to create sustainable buildings, products, and cities.</p>
+<p>🌱 I’m currently exploring <u>machine learning, optimization, agent-based modeling</u>, and the <u>development of social digital twins</u> to revolutionize how we approach sustainable design and urban planning.</p>
+<p>💡 I’m the founder of <b><a href="www.NexoNest.com">NexoNest</b>, a startup focused on creating innovative tools that enable architects and designers to <u>design more sustainable and efficient structures.</u></p>
+<h2>💞️ I’m open to collaborating on projects related to:</h2>
 <ul>
         <li>Building, Cities and Produc design with Computational Approach</li>
         <li>Sustainable design tool</li>
