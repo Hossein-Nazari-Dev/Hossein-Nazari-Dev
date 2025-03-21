@@ -2,7 +2,7 @@
 <p>🏛️ A Master’s graduate in <u>Sustainable Architecture</u> with a passion for merging technology, design, and sustainability.</p>
 <p>👀 I’m deeply interested in <u>building science, computational geometry, evidence-based design, energy efficiency</u>, and the <u>development of digital tools</u> that empower architects and designers to create sustainable buildings, products, and cities.</p>
 <p>🌱 I’m currently exploring <u>machine learning, optimization, agent-based modeling</u>, and the <u>development of social digital twins</u> to revolutionize how we approach sustainable design and urban planning.</p>
-<p>💡 I’m the founder of **[NexoNest](https://www.NexoNest.com)**, a startup focused on creating innovative tools that enable architects and designers to _design more sustainable and efficient structures.</p>
+<p>💡💡 I’m the founder of <b><a href="https://www.NexoNest.com">NexoNest</a></b>, a startup focused on creating innovative tools that enable architects and designers to <u>design more sustainable and efficient structures.</u></p>
 <h2>💞️ I’m open to collaborating on projects related to:</h2>
 <ul>
         <li>Building, Cities and Produc design with Computational Approach</li>
