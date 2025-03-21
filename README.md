@@ -1,4 +1,4 @@
-👋 Hi, I’m Hossein Nazari (@Hossein-Nazari-Dev)
+<p>👋 Hi, I’m Hossein Nazari (@Hossein-Nazari-Dev)</p>
 🏛️ A Master’s graduate in Sustainable Architecture with a passion for merging technology, design, and sustainability.
 👀 I’m deeply interested in building science, computational geometry, evidence-based design, energy efficiency, and the development of digital tools that empower architects and designers to create sustainable buildings, products, and cities.
 🌱 I’m currently exploring machine learning, optimization, agent-based modeling, and the development of social digital twins to revolutionize how we approach sustainable design and urban planning.
